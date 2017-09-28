@@ -1,7 +1,7 @@
-# Page 23 Chapter 2
+# Page 13 Chapter 3
 
-Venturing into the land of unit tests...
+Refactoring through the ...
 
-If you choose Refactor: [turn to page 13](../page-13/README.md)
+The End
 
-If you choose Double Down on Unit Tests: [turn to page 74](../page-74/README.md)
+To try again: [turn to page 23](../page-23/README.md)
