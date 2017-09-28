@@ -1,4 +1,4 @@
-## CYA-kittens Page 0 Chapter 1
+## CYA-kittens : Page 0 Chapter 1
 
 Once upon a time a funny story was written for Starwest and YOU were put in charge. 
 
