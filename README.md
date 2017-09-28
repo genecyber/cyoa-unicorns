@@ -6,6 +6,9 @@ The basics ...
 - developers have learned about unit tests
 - a unit testing framework has been added
 - a couple of unit tests have been written
+  - Unit tests to consider
+  - If birds hit unicorn gameplay should halt
+  - If obstacles hit unicorn gameplay should halt
 - the unit tests that were written don't even begin to cover the large function that does most of the work
 - design flaws are identified; take care of that now? Or ...
 
