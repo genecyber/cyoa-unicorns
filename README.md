@@ -2,6 +2,6 @@
 
 Refactoring through the ...
 
-The End
+The end.
 
 To try again: [turn to page 23](../page-23/README.md)
