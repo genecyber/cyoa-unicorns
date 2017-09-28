@@ -6,3 +6,5 @@ ___just kidding: Use the above line if you want the user to die___
 
 The end
 
+To try again: [turn to page 42](../page-42/README.md)
+
