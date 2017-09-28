@@ -15,7 +15,20 @@ The basics ...
   - owners can see state and value
  
 Test Cases that should be in this branch (cucumber/selenium tests):
-- 
+- Background:
+    Given I am on the Runicorn homepage
+
+  Scenario: Gameplay is started on a new game
+    Given the start game button is active
+    And the restart button is inactive
+    When I click start game
+    Then the game starts
+
+  Scenario: Gameplay is restarted on a finished game
+    Given the start game button is inactive
+    And the restart game is active
+    When I click restart ganme
+    Then the game starts
 
 Notes on choices:
 - Yay! We see value in high level tests and our test strategy is sound; let's add new features
