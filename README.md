@@ -32,6 +32,6 @@ Both are overflowing.
 Choose which box to open.
 ```
 
-If you choose "<Unit Tests Fun Word>": [turn to page 23](../page-23/README.md)
+If you choose to spend one rainbow of effort on "<Unit Tests Fun Word>": [turn to page 23](../page-23/README.md)
 
-If you choose "<Acceptance Tests Fun Word>": [turn to page 42](../page-42/README.md)
+If you choose to spend one rainbow of effort on "<Acceptance Tests Fun Word>": [turn to page 42](../page-42/README.md)
