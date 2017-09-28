@@ -10,6 +10,9 @@ The basics ...
 - ability to show value to the owners is lacking, after 2 rainbows of effort
 
 What unit test cases should exist in here?
+Additional unit tests to add could be:
+- With every second of gameplay that passes one point should be added to the score
+- On initial restart of the game, the score should be saved as the high score upon start of the next game
 ```
 
 You have died of dysentery.
