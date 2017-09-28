@@ -1,3 +1,8 @@
-# CYA-kittens Page 0 Chapter 1
+# Page 42 Chapter 2
 
-Once upon a time a funny story was written for Starwest and YOU were put in charge. Will you survive or will you die of dysentery?
+You dodge to the left and fall into a jungle of acceptance tests...
+
+If you choose Add a new feature using BDD: [turn to page 8](../page-8/README.md)
+
+If you choose More Acceptance Tests: [turn to page 17](../page-17/README.md)
+
