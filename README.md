@@ -1,6 +1,10 @@
 ## [CYA-kittens](../page-0/README.md) >> [Page 42 Chapter 2](../page-42/README.md) >> Page 8 Chapter 3
 
-While writing your feature using BDD [you were eaten by a Grue](https://en.wikipedia.org/wiki/Grue_(monster))
+```
+While writing your feature using BDD
+```
+[you were eaten by a Grue](https://en.wikipedia.org/wiki/Grue_(monster))
+
 
 ___just kidding: Use the above line if you want the user to die___
 
