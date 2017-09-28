@@ -15,6 +15,10 @@ Notes:
 - adding test framework from scratch takes time, learning new testing paradigms take time
 - 1 rainbow of effort didn't get you much benefit, but does make progress toward needed tests
 
+Code that should go in here:
+- 1 or two unit tests against the draw function in the index.js file
+- framework is mocha/chai
+
 Choices:
 - refactor the application, given the design flaw that has been identified
   - break down the one function into many and begin to have clearer coverage
