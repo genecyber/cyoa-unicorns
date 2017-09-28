@@ -1,3 +1,7 @@
-# CYA-kittens Page 0 Chapter 1
+# Page 23 Chapter 2
 
-Once upon a time a funny story was written for Starwest and YOU were put in charge. Will you survive or will you die of dysentery?
+Venturing into the land of unit tests...
+
+If you choose Refactor: [turn to page 13](../page-13/README.md)
+
+If you choose Double Down on Unit Tests: [turn to page 74](../page-74/README.md)
