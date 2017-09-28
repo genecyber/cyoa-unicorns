@@ -1,8 +1,8 @@
-# Page 42 Chapter 2
+# Page 8 Chapter 3
 
-You dodge to the left and fall into a jungle of acceptance tests...
+While writing your feature using BDD [you were eaten by a Grue](https://en.wikipedia.org/wiki/Grue_(monster))
 
-If you choose Add a new feature using BDD: [turn to page 8](../page-8/README.md)
+___ just kidding: Use the above line if you want the user to die ___
 
-If you choose More Acceptance Tests: [turn to page 17](../page-17/README.md)
+The end
 
