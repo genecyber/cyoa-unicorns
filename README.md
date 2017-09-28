@@ -7,7 +7,7 @@ You dodge to the left and fall into a jungle of acceptance tests...
 ```
 The basics ...
 - putting in the framework takes time
-- but ... 3 acceptance test later, there is some more clarity around the state of the application from a higher-level perspective (I mean, non-coders can see the test run and pass and see their value
+- but ... 1 or 2 acceptance test later, there is some more clarity around the state of the application from a higher-level perspective (I mean, non-coders can see the test run and pass and see their value
 - if all of those tests pass, though, what is the benefit?
   - domain language
   - all on the same page
