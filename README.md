@@ -2,9 +2,7 @@
 
 ```
 The basics ...
-- now there are a lot of unit tests
-- 1 of these should be failing in this branch; those are showing value
-- ability to show value to the owners is lacking, after 2 rainbows of effort
+
 ```
 
 You have died of dysentery.
