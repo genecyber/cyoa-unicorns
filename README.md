@@ -1,8 +1,6 @@
-# Page 42 Chapter 2
+# Page 17 Chapter 3
 
-You dodge to the left and fall into a jungle of acceptance tests...
+While writing more acceptance tests you uncover some defects...
 
-If you choose Add a new feature using BDD: [turn to page 8](../page-8/README.md)
-
-If you choose More Acceptance Tests: [turn to page 17](../page-17/README.md)
+To try again: [turn to page 42](../page-42/README.md)
 
