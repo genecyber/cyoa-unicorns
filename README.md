@@ -1,32 +1,15 @@
-## [cyoa-Unicorns](../page-0/README.md) >> [Page 42 Chapter 2](../page-42/README.md) >> Page 8 Chapter 3
+## [cyoa-unicorns](../page-0/README.md) >> [Page 42 Chapter 2](../page-42/README.md) >> Page 8 Chapter 3
 
 ```
-While writing your feature using BDD
+Acceptance tests changes good, now focus on unit
 ```
 
 ```
 The basics:
-- New feature is added, using BDD, so there are cucumber/acceptance tests covering it
-- One of the tests for this exposes a bug that was not previously identified
-- with no unit tests and large function, difficult to debug
-- highlight high level of coverage with acceptance tests, but no unit tests
-
-Specifics:
-- New feature should be:
-  - 
-- Acceptance test(s) for it should be:
-  - 
-- Bug identified should be:
-  - 
-  
-
+- This will be the same codebase as page 74, we have balanced lower level tests and the higher level tests well
 ```
-[you were eaten by a Grue](https://en.wikipedia.org/wiki/Grue_(monster))
 
-
-___just kidding: Use the above line if you want the user to die___
-
-The end
+You are in Paradise
 
 To try again: [turn to page 42](../page-42/README.md)
 
