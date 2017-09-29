@@ -1,34 +1,33 @@
-## [cyoa-Unicorns](../page-0/README.md) >> Page 23 Chapter 2
+## [cyoa-unicorns](../page-0/README.md) >> Page 23 Chapter 2
+
+```
+Once upon a time a funny story was written for Starwest and YOU were put in charge. 
+
+Will you survive or will you die of dysentery?
+```
 
 ```
 The basics ...
 - after 1 rainbow of effort
-- developers have learned about unit tests
-- a unit testing framework has been added
-- a couple of unit tests have been written
-  - Unit tests to consider
-  - If birds hit unicorn gameplay should halt
-  - If obstacles hit unicorn gameplay should halt
-- the unit tests that were written don't even begin to cover the large function that does most of the work
-- design flaws are identified; take care of that now? Or ...
-
-Notes:
-- codebase has a large monolithic function that performs a LOT of things
-- a couple of unit tests cover very little functionality within that function
-- adding test framework from scratch takes time, learning new testing paradigms take time
-- 1 rainbow of effort didn't get you much benefit, but does make progress toward needed tests
+- developers are testing better
+- code is more maintainable
+- testers are engaged in implementation details
+- may spend too much time on less valuable unit tests
+- may spend time writing code just to support the unit tests
+- may lose sight of higher level tests or system level testing
+- still have crap UI tests
 
 Code that should go in here:
-- 1 or two unit tests against the draw function in the index.js file
-- framework is mocha/chai
+- higher number of unit tests, versus acceptance tests, more like pyramid than ice cream cone
 
 Choices:
-- refactor the application, given the design flaw that has been identified
-  - break down the one function into many and begin to have clearer coverage
+- unit tests seem good, time to focus on switching acceptance test framework
 - keep going down unit tests path
-  - leave the large function and just werite a bunch more unit tests for it
+  - aim at 100% coverage
+  - is this a good target?
 ```
 
-If you choose Refactor: [turn to page 13](../page-13/README.md)
 
-If you choose Double Down on Unit Tests: [turn to page 74](../page-74/README.md)
+If you choose to spend one rainbow of effort on more "API/Unit Tests": [turn to page 13](../page-13/README.md)
+
+If you choose to spend one rainbow of effort on "Switching Acceptance Test Framework": [turn to page 74](../page-74/README.md)
