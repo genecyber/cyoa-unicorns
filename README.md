@@ -1,23 +1,22 @@
-## [cyoa-Unicorns](../page-0/README.md) >> [Page 42 Chapter 2](../page-42/README.md) >> Page 17 Chapter 3
+## [cyoa-unicorns](../page-0/README.md) >> [Page 42 Chapter 2](../page-42/README.md) >> Page 17 Chapter 3
 
 ```
-While writing more acceptance tests you uncover some defects...
-
-The end.
+Cucumbers all the way down
 ```
 
 ```
 The basics:
-- Should be something in here about defects uncovered being hard to track down and identify in the large monolithic function
+- Right tools for the job
+- multiple frameworks now
+- unit test feedback loops should be so so fast, like 5 seconds, and cucmber has too much overhead
 
 Test Cases:
 - 
 
-Defect(s) uncovered:
-- 
-
 
 ```
+
+Eaten by a huge cucumber.
 
 To try again: [turn to page 42](../page-42/README.md)
 
